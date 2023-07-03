@@ -180,7 +180,7 @@ font-weight: 700;
 
 /* hero-section */
 .hero-section{
-    background-image: url(assets/hero_image.jpg);
+    background-image: url(assets/hero-image.jpg);
     height: 320px;
     background-size: cover;
     display: flex;
